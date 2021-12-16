@@ -1,6 +1,6 @@
 <?php session_start();
 
-$UneVariable =  "Etes vous pret ?" ; 
+$UneVariable =  "Etes vous pret ? oui" ; 
 //var_dump(php_ini_loaded_file(), php_ini_scanned_files());
 ?>
 <!DOCTYPE html>
