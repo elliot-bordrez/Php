@@ -1,0 +1,37 @@
+p.red {
+
+    background-color: darkred;
+    color: red;
+}
+
+p.blue {
+
+    background-color:darkblue;
+    color: cyan;
+    }
+
+.red {
+    
+    color: red;
+}
+
+table {
+    margin-bottom: 10px;
+}
+
+div.scrollmenu {
+    background-color: #2B4C9B;
+    text-align: center;
+  }
+  
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    padding: 15px;
+    margin-left: 15px;
+    text-decoration: none;
+}
+  
+div.scrollmenu a:hover {
+    background-color: #777;
+}

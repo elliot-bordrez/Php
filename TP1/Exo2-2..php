@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Exercice 2.2</title>
+    <title>Exo7 2.2</title>
   </head>
 </html>
 
@@ -9,7 +9,7 @@
   $tableau=array(
     "Nom" => 'Bordrez',
     "Prenom" => 'Elliot',
-    "Password" => 'enter',
+    "Password" => 'Pass',
     );
 
   foreach($tableau as $key=>$value) {

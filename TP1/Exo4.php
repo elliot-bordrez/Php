@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="main.css" />
-    <title>Exercice4</title>
+    <title>Exo4</title>
 </head>
 
 <body>
@@ -16,7 +16,7 @@
 ?>
     <span>Indiquer les valeurs A B C afin de calculer Delta<sup>2</sup>+bx+c</span>
     <p Align=center><form name="saisie" action="" method='POST'>
-    <table Border=0><tr><td>&nbsp;A&nbsp;</td><td>
+    <table Border=1><tr><td>&nbsp;A&nbsp;</td><td>
         <input type="text" name="var1" value="<?PHP echo $A; ?>">
         <tr><td>&nbsp;B&nbsp;</td>
         <td><input type="text" name="var2" value="<?PHP echo $B; ?>">

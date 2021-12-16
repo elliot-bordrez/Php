@@ -1,0 +1,8 @@
+<?php
+
+
+function AfficheTableauHTML(){
+    ?>
+
+    <?php
+}
